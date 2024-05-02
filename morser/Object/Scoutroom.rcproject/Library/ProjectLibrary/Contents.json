@@ -1,0 +1,97 @@
+[
+  {
+    "format" : "image",
+    "displayName" : "Pigpen.png",
+    "libraryIdentifier" : "76386289428567aee19b11b08478f5a3"
+  },
+  {
+    "displayName" : "Morse_code_telegraph_device.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "b22ee22f0325162c3da9337826ed06e4"
+  },
+  {
+    "format" : "image",
+    "displayName" : "lightPict.png",
+    "libraryIdentifier" : "6658a0f4bdafc03d9f9cad801bd12a23"
+  },
+  {
+    "format" : "image",
+    "displayName" : "darkPic.png",
+    "libraryIdentifier" : "65a7e859fe11a95f1f093ec5645fa31f"
+  },
+  {
+    "libraryIdentifier" : "43c8e04d2ccae5d1ea1e9b3e05027d28",
+    "format" : "model",
+    "displayName" : "Safe-Safe.usdz"
+  },
+  {
+    "displayName" : "Safe-Door.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "14dd70c2870fdc2c33647d21b05c0882"
+  },
+  {
+    "format" : "image",
+    "displayName" : "1601.m10.i311.n029.S.c10.164511620 Seamless green grass vector pattern.jpeg",
+    "libraryIdentifier" : "46800a2bd4257aff91ec4163d4056a7d"
+  },
+  {
+    "format" : "model",
+    "displayName" : "Room Empty 2.usdz",
+    "libraryIdentifier" : "ff1a0c77d02c380b3b42a61198656900"
+  },
+  {
+    "displayName" : "Metal_door.usdz",
+    "libraryIdentifier" : "171e0f0250056b4b498a11e6051b91ca",
+    "format" : "model"
+  },
+  {
+    "displayName" : "Loudspeaker.usdz",
+    "libraryIdentifier" : "ef110d4ff3852b5286f082bff3f84bf0",
+    "format" : "model"
+  },
+  {
+    "displayName" : "Mark_3_mk_II.usdz",
+    "libraryIdentifier" : "3f0bd8aabc5c18bd2c7ef6772ba8e3c4",
+    "format" : "model"
+  },
+  {
+    "libraryIdentifier" : "ad9f91988cd479b982a321a28e03356d",
+    "displayName" : "Table.usdz",
+    "format" : "model"
+  },
+  {
+    "format" : "audio",
+    "libraryIdentifier" : "ee3a263502b1b166263d5681fcae24b9",
+    "displayName" : "briefgame.m4a"
+  },
+  {
+    "displayName" : "recordereffect.m4a",
+    "libraryIdentifier" : "a2e7c479cc42615818449dfac545ec93",
+    "format" : "audio"
+  },
+  {
+    "displayName" : "portal.usdz",
+    "libraryIdentifier" : "447af416258304dab131bc2f2cd369dc",
+    "format" : "model"
+  },
+  {
+    "format" : "audio",
+    "libraryIdentifier" : "e995a68b9fc101cc9875032aceb39389",
+    "displayName" : "Door open sound effect.mp3"
+  },
+  {
+    "libraryIdentifier" : "521495fe35d3c14154fd0e32b46d8d6a",
+    "format" : "audio",
+    "displayName" : "briefgame.mp3"
+  },
+  {
+    "libraryIdentifier" : "75165d757ee61d664cbf19eff354918d",
+    "displayName" : "A4 - 10.png",
+    "format" : "image"
+  },
+  {
+    "displayName" : "A4 - 11.png",
+    "format" : "image",
+    "libraryIdentifier" : "ebcf7ac83fafce47905ccd25877b62c0"
+  }
+]

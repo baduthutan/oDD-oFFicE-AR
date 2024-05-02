@@ -1,0 +1,27 @@
+[
+  {
+    "displayName" : "Loudspeaker.usdz",
+    "format" : "model",
+    "libraryIdentifier" : "ef110d4ff3852b5286f082bff3f84bf0"
+  },
+  {
+    "format" : "audio",
+    "displayName" : "recordereffect.m4a",
+    "libraryIdentifier" : "a2e7c479cc42615818449dfac545ec93"
+  },
+  {
+    "libraryIdentifier" : "3f0bd8aabc5c18bd2c7ef6772ba8e3c4",
+    "displayName" : "Mark_3_mk_II.usdz",
+    "format" : "model"
+  },
+  {
+    "format" : "audio",
+    "displayName" : "recordereffect.mp3",
+    "libraryIdentifier" : "3778021198d5b3f2e5ddccb1dfa3dd1e"
+  },
+  {
+    "libraryIdentifier" : "521495fe35d3c14154fd0e32b46d8d6a",
+    "displayName" : "briefgame.mp3",
+    "format" : "audio"
+  }
+]
